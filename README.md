@@ -125,6 +125,8 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
+DEVELOPED BY : Yokeshwaran A
+REGISTER NUMBER :24900415
 ## OUTPUT:
 ![alt text](<web ex 8 output.png>)
 ## RESULT:
